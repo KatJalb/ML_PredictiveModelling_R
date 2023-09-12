@@ -14,4 +14,4 @@ Please download the .html files to view the complete project.
 This project was made as a part of Machine Learning 1: classification methods course at Faculty of Economic Sciences, University of Warsaw. 
 
 ## Contact
-Created by [Kasia](mailto:https://www.katarzyna.jalbrzykowska@student.uw.edu.pl/)
+Created by [Kasia](mailto:https://www.katarzyna.jalbrzykowska@gmail.com/)
